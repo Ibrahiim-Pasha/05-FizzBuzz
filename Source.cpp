@@ -1,9 +1,9 @@
 /*************************************************
-				 05 FizzBuzz
+		 	05 FizzBuzz
 	  - This program for : FizzBuzz.
 	  - Author : Ibrahim Mohamed Abdul-Meged.
-			   : facebook.com/Ibrahiim.Pasha
-			   : github.com/Ibrahiim-Pasha
+		   : facebook.com/Ibrahiim.Pasha
+		   : github.com/Ibrahiim-Pasha
 	  - Date : 30/9/2016 - 6:18 AM
 
 *************************************************/
